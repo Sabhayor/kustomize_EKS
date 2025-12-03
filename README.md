@@ -358,14 +358,4 @@ eksctl delete cluster --name my-kustomize-cluster
 * Kustomize official docs: [https://kubectl.docs.kubernetes.io/references/kustomize/](https://kubectl.docs.kubernetes.io/references/kustomize/)
 * Amazon EKS user guide: [https://docs.aws.amazon.com/eks/](https://docs.aws.amazon.com/eks/)
 
----
 
-### Done
-
-This README provides an actionable, step-by-step structure for each task in your lessons. If you want, I can:
-
-* Save this as a downloadable `README.md` file and provide a link, or
-* Expand any lesson into a shell script or a runnable set of commands, or
-* Add CI/CD guidance for applying overlays automatically.
-
-Tell me which of the above (if any) you want next.
